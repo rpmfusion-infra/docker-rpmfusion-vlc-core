@@ -1,4 +1,4 @@
-FROM registry.fedoraproject.org/rpmfusion/ffmpeg:latest
+FROM rpmfusion/ffmpeg:latest
 
 MAINTAINER kwizart@gmail.com
 
